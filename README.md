@@ -5,9 +5,11 @@ Code reproduction and chapter summaries from the book **"Practical Statistics fo
 ---
 
 ## Student Information
-- **Nama**: Muhammad Aidil Fadhli Awaludin
-- **NIM**: 101032300087
-- **Kelas**: TK-47-01
+
+- **Name**: Muhammad Aidil Fadhli Awaludin
+- **Student Number/NIM**: 101032300087
+- **Class**: TK-47-01
+
 ---
 
 ## Repository Structure
@@ -42,9 +44,11 @@ Code reproduction and chapter summaries from the book **"Practical Statistics fo
 ## How to Run
 
 ### Google Colab
+
 Each notebook can be executed directly in Google Colab by clicking the **Open in Colab** badge at the top of each `.ipynb` file. Datasets are automatically fetched if executed in the cloud.
 
 ### Local Setup
+
 ```bash
 git clone https://github.com/aidilfadhli/Practical-Statistics-for-Data-Scientists.git
 cd Practical-Statistics-for-Data-Scientists
@@ -55,6 +59,7 @@ jupyter lab
 ---
 
 ## References
-- Bruce, P., Bruce, A., & Gedeck, P. (2020). *Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python* (2nd ed.). O'Reilly Media.
+
+- Bruce, P., Bruce, A., & Gedeck, P. (2020). _Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python_ (2nd ed.). O'Reilly Media.
 - Official Repository: [gedeck/practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)
 - Course Reference: [farrelrassya/Practical-Statistics-for-Data-Scientist-Books](https://github.com/farrelrassya/Practical-Statistics-for-Data-Scientist-Books)
