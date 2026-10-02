@@ -5,7 +5,7 @@ Code reproduction and chapter summaries from the book **"Practical Statistics fo
 ---
 
 ## Student Information
-- **Nama**: Aidil Fadhli Awaludin
+- **Nama**: Muhammad Aidil Fadhli Awaludin
 - **NIM**: 101032300087
 - **Kelas**: TK-47-01
 ---
